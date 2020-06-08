@@ -1,0 +1,13 @@
+{
+  "name": "arc-hit-me",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^6.4.0",
+    "@architect/functions": "^3.10.1",
+    "@begin/data": "^1.2.2"
+  }
+}
